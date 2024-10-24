@@ -1,6 +1,8 @@
 # class Developer(Svetlana): 🌈
 skills = ['Python', 'Backend', 'Problem Solving']
+
 passion = 'Creating Clean Code'
+
 coffee_level = 'Always Full'
 
 Привет! Я Света — разработчик, который считает, что в коде должна быть не только логика, но и душа. 
