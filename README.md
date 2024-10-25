@@ -12,8 +12,8 @@ coffee_level = 'Always Full'
 Буду рада общению и сотрудничеству! 😊
 
 ## Contacts
-- 📧 [ssheptur@gmail.com](mailto:ssheptur@gmail.com)
-- [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/SvetaSheptur)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:ssheptur@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/SvetaSheptur)
 
 ## Skills
 
